@@ -50,7 +50,7 @@ const Contact = () => {
                             <div className="flex items-center gap-6">
                                 {[
                                     { icon: <Github size={24} />, url: "https://github.com/nikhiljeeva0-ui", color: "hover:text-white" },
-                                    { icon: <Linkedin size={24} />, url: "https://linkedin.com", color: "hover:text-neon-blue" },
+                                    { icon: <Linkedin size={24} />, url: "https://www.linkedin.com/in/nikhil-jeeva-727105381/", color: "hover:text-neon-blue" },
                                     { icon: <Twitter size={24} />, url: "https://twitter.com", color: "hover:text-neon-blue" }
                                 ].map((social, idx) => (
                                     <motion.a
@@ -79,7 +79,7 @@ const Contact = () => {
             </motion.div>
 
             <footer className="mt-32 text-center text-gray-700 font-mono text-[10px] tracking-[0.4em] uppercase">
-                &copy; 2024 NIKHIL JEEVA // PORTFOLIO_V1
+                &copy; 2026 NIKHIL JEEVA // PORTFOLIO_V1
             </footer>
         </section>
     );

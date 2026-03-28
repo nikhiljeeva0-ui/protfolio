@@ -60,10 +60,10 @@ const Navbar = () => {
           <a href="https://github.com/nikhiljeeva0-ui" target="_blank" className="hover:text-neon-purple transition-colors">
             <Github size={20} />
           </a>
-          <a href="#" className="hover:text-neon-purple transition-colors">
+          <a href="https://www.linkedin.com/in/nikhil-jeeva-727105381/" target="_blank" className="hover:text-neon-purple transition-colors">
             <Linkedin size={20} />
           </a>
-          <a href="#" className="hover:text-neon-purple transition-colors">
+          <a href="mailto:nikhiljeeva0@gmail.com" className="hover:text-neon-purple transition-colors">
             <Mail size={20} />
           </a>
         </div>
@@ -101,10 +101,10 @@ const Navbar = () => {
                 <a href="https://github.com/nikhiljeeva0-ui" target="_blank">
                   <Github size={24} />
                 </a>
-                <a href="#">
+                <a href="https://www.linkedin.com/in/nikhil-jeeva-727105381/" target="_blank">
                   <Linkedin size={24} />
                 </a>
-                <a href="#">
+                <a href="mailto:nikhiljeeva0@gmail.com">
                   <Mail size={24} />
                 </a>
               </div>
